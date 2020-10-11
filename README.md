@@ -2,6 +2,8 @@
 
 Simple script for easy comparison when buying a telescope.
 
+Script simple para comparar telescopios a la hora de adquirir uno.
+
 ## 
 
 TODO: Translate code to english. 
