@@ -2,6 +2,9 @@
 
 Simple script for easy comparison when buying a telescope.
 
+## 
+
+TODO: Translate code to english. 
 
 ## Examples
 
