@@ -24,8 +24,8 @@ Aumento proporcionado con ocular 20[mm] + barlow x2 es 35.0x
 Aumento proporcionado con ocular 4[mm] + barlow x2 es 175.0x
 ```
 
-```python
 ### Celestron FirstScope
+```python
 telescope_B = Telescope(76, 300, "Reflector", "Celestron FirstScope")
 t3.get_all(ocular_list = [20, 2.4])
 ```
