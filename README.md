@@ -1,4 +1,4 @@
-#Simple Script for Telescope Comparison
+# Simple Script for Telescope Comparison
 
 Simple script for easy comparison when buying a telescope.
 
